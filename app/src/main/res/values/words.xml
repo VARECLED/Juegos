@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Este archivo nos contendra nuestras palabras y nuestras pistas dependiendo de la palabra-->
+    <string-array name="words">
+        <item>Laptop, Es un dispositivo inteligente</item>
+        <item>Leon, Es conocido como el rey de las bestias</item>
+        <item>Perro, Es el mejor amigo del hombre</item>
+        <item>libreta, Sirve para guardar apuntes</item>
+        <item>Maruchan, La comida del foráneo</item>
+    </string-array>
+</resources>

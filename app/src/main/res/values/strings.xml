@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Juegos</string>
+    <string name="titA">Ahorcados</string>
+    <string name="titB">Adivina el Número</string>
+    <string name="elige_el_juego_que_desees">Elige el juego que deses</string>
+    <string name="juego_del_ahorcado">Juego del Ahorcado</string>
+    <string name="encuentra_la_palabra">Encuentra la palabra:</string>
+    <string name="titAhor">.</string>
+
+    <!--Adivina el numero-->
+    <string name="insAn">Encuentra el numero entre el 1 y el 50: </string>
+    <string name="num">0</string>
+    <string name="btn">Jugar</string>
+</resources>
